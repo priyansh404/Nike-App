@@ -41,6 +41,6 @@ body::-webkit-scrollbar-thumb {
   }
 
   50% {
-    width: 22ch;
+    width: 24ch;
   }
 }
