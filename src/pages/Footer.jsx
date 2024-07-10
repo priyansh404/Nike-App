@@ -7,11 +7,11 @@ import { IconLink } from "../components/footer/IconLink";
 const Footer = () => {
   return (
     <Box h={"300px"} bg={"black"} color={"white"} mt={"40px"}>
-      <Center h={"80px"}>
+{/*       <Center h={"80px"}>
         <Text className="typeWritertheme">
           Made with <Icon as={FcLike} /> by Priyansh!
         </Text>
-      </Center>
+      </Center> */}
 
       <Grid
         h={"220px"}
